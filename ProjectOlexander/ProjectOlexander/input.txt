@@ -1,0 +1,5 @@
+Ivanov Ivan Ivanovich 15.12.1990 +79123456789
+Petrov Petr Petrovich 20.06.1985 +79012345678
+Sidorova Elena Aleksandrovna 20.06.1978 +79234567890
+Kozlov Alexey Vladimirovich 05.03.2000 +79456789012
+Mikhailova Olga Sergeevna 30.11.1995 +79876543210
